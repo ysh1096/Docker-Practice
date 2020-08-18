@@ -1,6 +1,6 @@
 <?php 
     $conn = mysqli_connect(
-        'database-1.comevvtan6dy.ap-southeast-2.rds.amazonaws.com',
+        'database',
         'user',
         'passowrd',
         'TEST',
