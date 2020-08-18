@@ -12,5 +12,5 @@ cd Docker-Practice
 <pre>
 docker login
 docker pull ysh1096/docker-practice
-docker run -p 80:80 -v /home/Docker-Practice/Project:/var/www/html yhs1096/docker-practice
+docker run -p 80:80 -v /home/Docker-Practice/Project:/var/www/html ysh1096/docker-practice
 </pre>
